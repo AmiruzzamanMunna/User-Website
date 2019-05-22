@@ -8,7 +8,7 @@
       <div class="intro-text">
         <div class="intro-lead-in">Welcome To My Website!</div>
         <div class="intro-heading text-uppercase">It's Nice To Meet You</div>
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">My Services</a>
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Download My CV</a>
       </div>
     </div>
   </header>
@@ -231,7 +231,7 @@
   </section>
 
   <!-- Team -->
-  <section class="bg-light page-section" id="team">
+  <!-- <section class="bg-light page-section" id="team">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
@@ -319,7 +319,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <!-- Clients -->
   <section class="py-5">
